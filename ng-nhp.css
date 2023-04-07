@@ -1,0 +1,288 @@
+.ng-nhp-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro-200);
+  width: 1280px;
+  height: 1541px;
+}
+.ng-nhp-item {
+  position: absolute;
+  top: 94px;
+  left: 74px;
+  width: 1132px;
+  height: 580px;
+  object-fit: cover;
+}
+.cho-mng-bn {
+  margin: 0;
+}
+.mons-pet1 {
+  font-size: var(--font-size-45xl);
+}
+.cho-mng-bn-container,
+.ni-trao-i-container {
+  position: absolute;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+  font-weight: 200;
+}
+.cho-mng-bn-container {
+  top: 221px;
+  left: 143px;
+  white-space: pre-wrap;
+  width: 443px;
+  height: 131px;
+}
+.ni-trao-i-container {
+  top: 410px;
+  left: 154px;
+  width: 432px;
+  height: 96px;
+}
+.ng-nhp-inner {
+  position: absolute;
+  top: 688px;
+  left: 1px;
+  width: 1280px;
+  height: 853px;
+  object-fit: cover;
+}
+.group-child7,
+.ng-nhp-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.ng-nhp-child1 {
+  background-color: var(--color-black);
+  width: 1280px;
+  height: 52px;
+}
+.group-child7 {
+  border-radius: var(--br-8xs);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 185px;
+  height: 46px;
+}
+.login {
+  top: 9.45px;
+  left: 62px;
+  display: inline-block;
+  font-weight: 200;
+  width: 61px;
+  height: 35.61px;
+}
+.login,
+.login1 {
+  position: absolute;
+}
+.ng-nhp-inner1,
+.rectangle-parent8 {
+  position: absolute;
+  width: 185px;
+  height: 46px;
+}
+.rectangle-parent8 {
+  top: 0;
+  left: 0;
+}
+.ng-nhp-inner1 {
+  top: 3px;
+  left: 941px;
+}
+.login1 {
+  height: 4.71%;
+  width: 13.19%;
+  top: 42.18%;
+  left: 44.96%;
+  font-size: var(--font-size-45xl);
+  font-weight: 500;
+  color: #0051ef;
+  display: inline-block;
+}
+.enter-vis-social,
+.please-login-to {
+  position: absolute;
+  height: 1.47%;
+  display: inline-block;
+}
+.please-login-to {
+  width: 26.23%;
+  top: 47.8%;
+  left: 39.34%;
+}
+.enter-vis-social {
+  width: 18.35%;
+  top: 53.48%;
+  left: 42.39%;
+}
+.ng-nhp-child2,
+.ng-nhp-child3 {
+  position: absolute;
+  height: 2.93%;
+  width: 13.43%;
+  top: 55.99%;
+  right: 49.96%;
+  bottom: 41.08%;
+  left: 36.61%;
+  border-radius: var(--br-8xs);
+  background-color: #d74c37;
+}
+.ng-nhp-child3 {
+  right: 32.71%;
+  left: 53.86%;
+  background-color: #465b92;
+}
+.vector-icon25,
+.vector-icon26 {
+  position: absolute;
+  height: 1.96%;
+  width: 3.98%;
+  top: 56.48%;
+  right: 54.41%;
+  bottom: 41.56%;
+  left: 41.61%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon26 {
+  height: 2.32%;
+  width: 2.97%;
+  top: 56.36%;
+  right: 37.78%;
+  bottom: 41.32%;
+  left: 59.25%;
+}
+.instagram {
+  font-weight: 800;
+}
+.or-login-with-container {
+  position: absolute;
+  height: 1.47%;
+  width: 17.41%;
+  top: 60.21%;
+  left: 43.01%;
+  color: var(--color-gray-600);
+  display: inline-block;
+}
+.forgot-password,
+.remember-me {
+  position: absolute;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  display: inline-block;
+}
+.remember-me {
+  height: 1.22%;
+  width: 11.28%;
+  top: 77.57%;
+  left: 37.08%;
+}
+.forgot-password {
+  height: 1.04%;
+  width: 9.68%;
+  top: 77.63%;
+  left: 57.69%;
+  cursor: pointer;
+}
+.span6 {
+  color: var(--color-white);
+}
+.sign-up {
+  color: var(--color-red-200);
+}
+.dont-have-an-container {
+  position: absolute;
+  height: 1.04%;
+  width: 16.71%;
+  top: 86.86%;
+  left: 42.39%;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  display: inline-block;
+  color: rgba(255, 255, 255, 0.6);
+}
+.instance-child8 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #1a417c;
+}
+.login2 {
+  position: absolute;
+  top: 30%;
+  left: 42.42%;
+  font-weight: 500;
+}
+.rectangle-parent9 {
+  position: absolute;
+  top: 1322px;
+  left: 475px;
+  width: 363px;
+  height: 70px;
+}
+.vector-icon27 {
+  position: absolute;
+  bottom: 1596px;
+  left: 1147px;
+  width: 26px;
+  height: 26px;
+}
+.ng-nhp-child4 {
+  position: absolute;
+  top: 4px;
+  left: 101px;
+  border-radius: var(--br-8xs);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 185px;
+  height: 43px;
+}
+.gh-xem {
+  position: absolute;
+  top: 14px;
+  left: 149px;
+  display: inline-block;
+  font-weight: 200;
+  width: 89px;
+  height: 33px;
+}
+.instance-child9 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.ng-nhp-inner2,
+.ng-nhp-inner3 {
+  position: absolute;
+  top: 1030px;
+  left: 469px;
+  width: 388px;
+  height: 75px;
+}
+.ng-nhp-inner3 {
+  top: 1137px;
+}
+.ng-nhp {
+  position: relative;
+  width: 100%;
+  height: 1636px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

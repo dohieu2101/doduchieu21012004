@@ -1,0 +1,91 @@
+.phng-h-tr {
+  position: absolute;
+  top: 100px;
+  left: 340px;
+  font-size: var(--font-size-17xl);
+  font-weight: 800;
+}
+.th-bng-cch,
+.vui-lng-nhp {
+  position: absolute;
+  font-weight: 300;
+}
+.vui-lng-nhp {
+  top: 226px;
+  left: 388px;
+  display: inline-block;
+  width: 559px;
+}
+.th-bng-cch {
+  top: 446px;
+  left: 274px;
+  cursor: pointer;
+}
+.instance-child6 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: #ff3b3b;
+}
+.tip-theo {
+  position: absolute;
+  top: 19.57%;
+  left: 20.65%;
+  font-weight: 300;
+}
+.rectangle-parent7 {
+  position: absolute;
+  top: 431px;
+  left: 802px;
+  width: 184px;
+  height: 46px;
+  cursor: pointer;
+  color: var(--color-white);
+}
+.vector-icon24 {
+  position: absolute;
+  height: 5.47%;
+  width: 3.45%;
+  top: 12.43%;
+  right: 75.03%;
+  bottom: 82.11%;
+  left: 21.52%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.instance-child7 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.qun-mt-khu-inner {
+  position: absolute;
+  top: 267px;
+  left: 288px;
+  width: 692px;
+  height: 120px;
+}
+.qun-mt-khu {
+  position: relative;
+  background-color: var(--color-gainsboro-200);
+  width: 100%;
+  height: 808px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

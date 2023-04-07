@@ -1,0 +1,67 @@
+.image-24-icon,
+.momo-child {
+  position: absolute;
+  top: 0;
+  height: 844px;
+}
+.momo-child {
+  left: -17px;
+  background-color: var(--color-white);
+  width: 1280px;
+}
+.image-24-icon {
+  left: 587px;
+  width: 676px;
+  object-fit: cover;
+}
+.qut-m {
+  position: absolute;
+  top: 58px;
+  left: 4px;
+}
+.thanh-ton-bng {
+  top: 0;
+  left: 0;
+}
+.group-child,
+.thanh-ton-bng {
+  position: absolute;
+}
+.qut-m-thanh-ton-parent {
+  position: absolute;
+  top: 145px;
+  left: 24px;
+  width: 539px;
+  height: 116px;
+}
+.group-child {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: #3e86f3;
+  width: 378px;
+  height: 90px;
+}
+.click-tip {
+  position: absolute;
+  top: 16px;
+  left: 0;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 609px;
+  left: 117px;
+  width: 378px;
+  height: 90px;
+  cursor: pointer;
+  color: var(--color-white);
+}
+.momo {
+  position: relative;
+  width: 100%;
+  height: 844px;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-red-200);
+  font-family: var(--font-inter);
+}
